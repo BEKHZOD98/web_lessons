@@ -1,0 +1,14 @@
+.block{
+    /* border-left: 1px solid red;
+    border-top: 2px solid green;
+    border-right: 1px solid red;
+    border-bottom: 2px solid green; */
+
+    border: 1px solid gray;
+    width: 600px;
+    height: 500px;
+    /* margin: 5px 10px 5px 10px; */
+    margin:auto;
+    margin-bottom: 5px;
+
+}
