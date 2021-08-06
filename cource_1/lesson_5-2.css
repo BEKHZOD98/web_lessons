@@ -1,0 +1,47 @@
+.news_block{
+    width: 300px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 10px;
+    padding-right: 10px;
+    border:1px solid gray;
+    
+}
+.news_block:hover{
+    background-color:teal;
+}
+img{
+    width: 290px;
+    margin: 10px;
+}
+.block_title{
+    text-align: center;
+    margin: 1px;
+    margin-top: 8px;
+    line-height: 22px;
+    
+}
+.block_text{
+    margin: 8px;
+    margin-top: 20px;
+    text-indent: 25px;
+    margin-bottom:20px;
+    line-height: 22px;
+    color:thistle;
+}
+.div_link{
+    
+    margin-left: 190px;
+    margin-bottom: 20px;
+}
+a:link, a:visited{
+    background-color:violet;
+    color:white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: red;
+}
